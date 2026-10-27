@@ -151,7 +151,7 @@ Results can be affected by missing or invalid timestamps, unusual distances or a
 
 See the accompanying **NYC Yellow Taxi Analytics — Documentation** for detailed business context, data understanding, workflow, system explanation, KPI definitions, dashboard screenshots, recommendations, limitations, and references.
 
-- [Documentation (Word)](NYC_Yellow_Taxi_Analytics_Documentation.docx)
+- - [Full Project Documentation (Word)](NYC_TLC_Yellow_Taxi_Analytics/08_Project_Documentation/NYC_Yellow_Taxi_Analytics_Documentation.docx)
 
 Keep the documentation files in the same GitHub repository as this README and preserve these filenames, or update the links if you rename them.
 
